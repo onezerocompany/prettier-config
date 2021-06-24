@@ -1,11 +1,12 @@
 {
   "name": "@onezerocompany/prettier-config",
   "version": "1.0.0",
-  "description": "",
+  "description": "OneZero's Prettier configuration",
   "author": {
     "name": "Luc Silverentand",
     "email": "luca@onezero.company"
   },
+  "license": "MIT",
   "scripts": {
     "prettier": "prettier --write ."
   },
