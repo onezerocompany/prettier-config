@@ -1,0 +1,26 @@
+{
+  "name": "@onezerocompany/prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "author": {
+    "name": "Luc Silverentand",
+    "email": "luca@onezero.company"
+  },
+  "scripts": {
+    "prettier": "prettier --write ."
+  },
+  "main": "index.json",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "prettier": "^2.3.1"
+  },
+  "prettier": "./index.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/onezerocompany/prettier-config"
+  }
+}
